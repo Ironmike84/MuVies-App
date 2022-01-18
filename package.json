@@ -2,7 +2,7 @@
   "name": "src",
   "version": "1.0.0",
   "main": "index.js",
-  "entry": "index.html,
+  "entry": "index.html",
   "keywords": [],
   "author": "",
   "license": "ISC",
