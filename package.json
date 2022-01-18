@@ -2,6 +2,9 @@
   "name": "src",
   "version": "1.0.0",
   "main": "index.js",
+  "script": {
+    "start": "node index.js"
+  },
   "entry": "index.html",
   "keywords": [],
   "author": "",
