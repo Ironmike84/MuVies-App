@@ -1,2 +1,0 @@
-# MuVies-App
-Movies
