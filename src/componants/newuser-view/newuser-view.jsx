@@ -14,6 +14,7 @@ const handleSubmit = (e) => {
 };
 
 return (
+    <div className='loginBox'>
     <form>
     <label>
         Username:
@@ -34,5 +35,6 @@ return (
 
     <button type="submit" onClick={handleSubmit}>Submit</button>
     </form>
+    </div>
 );
 }
