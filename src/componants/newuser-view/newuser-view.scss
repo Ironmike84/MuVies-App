@@ -1,0 +1,55 @@
+.loginBox{
+    text-align: center;
+    background-color: rgb(29, 27, 27);
+    margin-left: 35vw;
+    padding: 10px;
+    width: 350px;
+    border: 1px outset black;
+    border-radius: 14px;
+
+    box-shadow: 1px 1px 3px black,
+                2px 2px 3px black,
+                3px 3px 3px rgba(0, 0, 0, 0.753);
+}
+
+
+button {
+    padding: 7px;
+   
+    text-align: center;
+    cursor: pointer;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    color:rgb(2, 231, 2);
+    background-color: rgba(0, 0, 0, 0.644);
+    border-radius: 15px;
+    box-shadow: 1px 1px 3px black,
+                2px 2px 3px black;
+    transition: 1s ease-in-out;
+  }
+  button:hover {
+    cursor: pointer;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    color:rgb(179, 233, 179);
+    background-color: rgba(0, 0, 0, 0.644);
+    border-radius: 15px;
+    box-shadow: 1px 1px 3px black,
+                2px 2px 3px black,
+                3px 3px 3px black,
+                4px 4px 6px rgb(58, 3, 3);
+  }
+
+input{
+    text-align: center  ;
+    margin: 5px;
+    height: 25px;
+    border: 1px inset black;
+    font-family: 'M PLUS 1 Code', sans-serif;
+    font-size: 14pt;
+    border-radius: 12px;
+    color: chartreuse;
+    background-color: rgb(20, 20, 20);
+    box-shadow:  inset 1px 1px 2px black,
+                inset 2px 2px 3px black,
+                inset -1px -1px 2px black,
+                inset -2px -2px 3px black,;
+}
